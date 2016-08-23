@@ -1,0 +1,8 @@
+.sidebar {
+  border: solid black 3px;
+  background-color: pink;
+  text-align:center;
+}
+.sidebar a{
+  color:green;
+}
